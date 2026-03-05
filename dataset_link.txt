@@ -1,0 +1,3 @@
+Dataset: IBM HR Analytics Attrition Dataset
+Source: Kaggle
+Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
